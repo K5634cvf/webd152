@@ -107,7 +107,7 @@ footer {
     color: #1976D2;
     font-weight: bold;
 }
-#homehero, #yurthero, #trailhero, #reservations-hero, #aboutme-hero{
+#homehero, #yurthero, #trailhero, #reservations-hero, #aboutme-hero {
     background-repeat: no-repeat;
     background-size: cover;
     height: 18.75rem;
